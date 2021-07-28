@@ -1,22 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Otomanopee+One&family=Ubuntu:wght@400;700&display=swap");
-@import "./reset.css";
-@import "./variables.css";
+@import "reset.css";
+@import "variables.css";
 
 /* Components */
-@import "./components/status-bar.css";
-@import "./components/nav-bar.css";
-@import "./components/screen-header.css"; /* Screens */
-@import "./components/alt-screen-header.css";
-@import "./screens/login.css";
-@import "./screens/friends.css";
-@import "./components/user-component.css";
-@import "./components/badge.css";
-@import "./screens/friends.css";
-@import "./screens/find.css";
-@import "./screens/more.css";
-@import "./screens/settings.css";
-@import "./screens/chat.css";
-@import "./components/no-mobile.css";
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css"; /* Screens */
+@import "components/alt-screen-header.css";
+@import "screens/login.css";
+@import "screens/friends.css";
+@import "components/user-component.css";
+@import "components/badge.css";
+@import "screens/friends.css";
+@import "screens/find.css";
+@import "screens/more.css";
+@import "screens/settings.css";
+@import "screens/chat.css";
+@import "components/no-mobile.css";
 body {
   color: #2e363e;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
